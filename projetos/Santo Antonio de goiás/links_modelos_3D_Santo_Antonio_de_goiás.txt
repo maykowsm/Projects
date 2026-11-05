@@ -1,0 +1,12 @@
+CONCRETO ARMADO - 
+https://3dviewer.net/index.html#model=https://github.com/maykowsm/Projects/blob/main/projetos/Santo%20Antonio%20de%20goiás/CA_SANTO_ANTONIO.glb
+
+ELÉTRICO - 
+https://3dviewer.net/index.html#model=https://github.com/maykowsm/Projects/blob/main/projetos/Santo%20Antonio%20de%20goiás/ELETRICO_SANTO_ANTONIO.stl
+
+HIDRÁULICO - 
+https://3dviewer.net/index.html#model=https://github.com/maykowsm/Projects/blob/main/projetos/Santo%20Antonio%20de%20goiás/HIDRAULICO_SANTO_ANTONIO.glb
+
+SANITÁRIO - 
+https://3dviewer.net/index.html#model=https://github.com/maykowsm/Projects/blob/main/projetos/Santo%20Antonio%20de%20goiás/SANITARIO_SANTO_ANTONIO.stl
+
